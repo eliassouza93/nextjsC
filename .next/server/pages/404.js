@@ -8,8 +8,8 @@
  */
 (() => {
 var exports = {};
-exports.id = "pages/index";
-exports.ids = ["pages/index"];
+exports.id = "pages/404";
+exports.ids = ["pages/404"];
 exports.modules = {
 
 /***/ "./node_modules/@swc/helpers/lib/_async_to_generator.js":
@@ -243,14 +243,14 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 /***/ }),
 
-/***/ "./pages/index.js":
-/*!************************!*\
-  !*** ./pages/index.js ***!
-  \************************/
+/***/ "./pages/404.js":
+/*!**********************!*\
+  !*** ./pages/404.js ***!
+  \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ HomePage)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _src_components_Link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../src/components/Link */ \"./src/components/Link/index.js\");\n\n\nfunction HomePage() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h1\", {\n                as: \"h1\",\n                children: \"Alura Cases - Home Page\"\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\Elias\\\\nextjsC\\\\pages\\\\index.js\",\n                lineNumber: 11,\n                columnNumber: 13\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_src_components_Link__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                href: \"/faq\",\n                children: \"Ir para a p\\xe1gina do FAQ\"\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\Elias\\\\nextjsC\\\\pages\\\\index.js\",\n                lineNumber: 13,\n                columnNumber: 13\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\Users\\\\Elias\\\\nextjsC\\\\pages\\\\index.js\",\n        lineNumber: 8,\n        columnNumber: 9\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9pbmRleC5qcy5qcyIsIm1hcHBpbmdzIjoiOzs7Ozs7O0FBQ0E7QUFBeUM7QUFJMUIsU0FBU0MsV0FBVztJQUMvQixxQkFDSSw4REFBQ0M7OzBCQUdHLDhEQUFDQztnQkFBR0MsSUFBRzswQkFBSzs7Ozs7OzBCQUVaLDhEQUFDSiw0REFBSUE7Z0JBQUNLLE1BQUs7MEJBQU87Ozs7Ozs7Ozs7OztBQU05QixDQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vYWx1cmEtY2FzZXMtZGl2dWxnYWNhby8uL3BhZ2VzL2luZGV4LmpzP2JlZTciXSwic291cmNlc0NvbnRlbnQiOlsiXHJcbmltcG9ydCBMaW5rIGZyb20gJy4uL3NyYy9jb21wb25lbnRzL0xpbmsnXHJcblxyXG5cclxuXHJcbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhvbWVQYWdlKCkge1xyXG4gICAgcmV0dXJuIChcclxuICAgICAgICA8ZGl2PlxyXG5cclxuXHJcbiAgICAgICAgICAgIDxoMSBhcz0naDEnPkFsdXJhIENhc2VzIC0gSG9tZSBQYWdlPC9oMT5cclxuXHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9Jy9mYXEnPlxyXG4gICAgICAgICAgICAgICAgSXIgcGFyYSBhIHDDoWdpbmEgZG8gRkFRXHJcbiAgICAgICAgICAgIDwvTGluaz5cclxuXHJcbiAgICAgICAgPC9kaXY+XHJcbiAgICApXHJcbn0iXSwibmFtZXMiOlsiTGluayIsIkhvbWVQYWdlIiwiZGl2IiwiaDEiLCJhcyIsImhyZWYiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./pages/index.js\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Page404)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _src_components_Link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../src/components/Link */ \"./src/components/Link/index.js\");\n\n\nfunction Page404() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"h1\", {\n                children: \"Voc\\xea se perdeu e caiu na p\\xe1gina 404\"\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\Elias\\\\nextjsC\\\\pages\\\\404.js\",\n                lineNumber: 8,\n                columnNumber: 13\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_src_components_Link__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                href: \"/\",\n                children: \"Ir para a home\"\n            }, void 0, false, {\n                fileName: \"C:\\\\Users\\\\Elias\\\\nextjsC\\\\pages\\\\404.js\",\n                lineNumber: 11,\n                columnNumber: 13\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"C:\\\\Users\\\\Elias\\\\nextjsC\\\\pages\\\\404.js\",\n        lineNumber: 7,\n        columnNumber: 9\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy80MDQuanMuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7OztBQUFBO0FBQTBDO0FBSTNCLFNBQVNDLFVBQVU7SUFDOUIscUJBQ0ksOERBQUNDOzswQkFDRyw4REFBQ0M7MEJBQUc7Ozs7OzswQkFHSiw4REFBQ0gsNERBQUlBO2dCQUFDSSxNQUFNOzBCQUFLOzs7Ozs7Ozs7Ozs7QUFLN0IsQ0FBQyIsInNvdXJjZXMiOlsid2VicGFjazovL2FsdXJhLWNhc2VzLWRpdnVsZ2FjYW8vLi9wYWdlcy80MDQuanM/M2VkOSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGluayBmcm9tIFwiLi4vc3JjL2NvbXBvbmVudHMvTGlua1wiO1xyXG5cclxuXHJcblxyXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBQYWdlNDA0KCkge1xyXG4gICAgcmV0dXJuIChcclxuICAgICAgICA8ZGl2PlxyXG4gICAgICAgICAgICA8aDE+XHJcbiAgICAgICAgICAgICAgICBWb2PDqiBzZSBwZXJkZXUgZSBjYWl1IG5hIHDDoWdpbmEgNDA0XHJcbiAgICAgICAgICAgIDwvaDE+XHJcbiAgICAgICAgICAgIDxMaW5rIGhyZWY9eycvJ30+XHJcbiAgICAgICAgICAgICAgICBJciBwYXJhIGEgaG9tZVxyXG4gICAgICAgICAgICA8L0xpbms+XHJcbiAgICAgICAgPC9kaXY+XHJcbiAgICApXHJcbn0iXSwibmFtZXMiOlsiTGluayIsIlBhZ2U0MDQiLCJkaXYiLCJoMSIsImhyZWYiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./pages/404.js\n");
 
 /***/ }),
 
@@ -601,7 +601,7 @@ module.exports = require("react/jsx-dev-runtime");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = (__webpack_exec__("./pages/index.js"));
+var __webpack_exports__ = (__webpack_exec__("./pages/404.js"));
 module.exports = __webpack_exports__;
 
 })();

@@ -4,7 +4,7 @@ export default function EstiloBlobal() {
         <style global jsx>{`
         body{
             font-family: sans-serif;
-	
+       
             
         }
         `}
